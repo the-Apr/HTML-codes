@@ -1,2 +1,2 @@
 # HTML-codes
- UI clones of I built while learning HTML and CSS
+ UI clones I built while learning HTML and CSS
